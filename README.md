@@ -11,7 +11,7 @@
   <p>Hello</p>
    <ul>
      <li>
-         <h2><a href="https://23tr-an05.github.io/livres/">Qu'est ce que la Filosophie?</a></h2>
+         <h2><a href="https://23tr-an05.github.io/qu-est-q-la-filo/">Qu'est ce que la Filosophie?</a></h2>
      </li>
      <li>
          <h2></h2>
