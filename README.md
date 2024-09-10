@@ -8,7 +8,7 @@
     #para2{
         font-size:40;
         text-align:center;
-        color:#F6F99F;
+        color:#FFF99F;
     }
  </style></head>
  <body>
