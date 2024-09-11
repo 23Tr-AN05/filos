@@ -20,7 +20,7 @@
          <h2><a href="https://23tr-an05.github.io/qu-est-q-la-filo/">Qu'est ce que la Philosophie?</a></h2>
      </li>
      <li>
-         <h2><a href="https://23tr-an05.github.io/V-rit-/">Comment peut-on établir la vérité?</a></h2>
+         <h2><a href="https://23tr-an05.github.io/V-rit/">Comment peut-on établir la vérité?</a></h2>
      </li>
      <li>
          <h2><a href=" ">Quelle est la différence entre la science et la croyance?</a></h2>
@@ -53,7 +53,7 @@
     <h2><a href=" ">La nature</a></h2>
      </li>
     <li>
-         <h2><a href=" ">Le language</a></h2>
+         <h2><a href=" ">Le langage</a></h2>
      </li>
     </ul>
  <br>
@@ -77,14 +77,12 @@
     </ul>
     <br>
  <hr>
- <h3 id="para2" style="border: 1px solid black; padding: 10px;">🗃️&nbsp;&nbsp; &nbsp;&nbsp; Méthodologie&nbsp;&nbsp; &nbsp;&nbsp; 🗂️<br> ✏️ vers le BAC 😭</h3>
+ <h3 id="para2" style="border: 1px solid black; padding: 10px;">📕&nbsp;&nbsp; &nbsp;&nbsp; Manuel de philosophie &nbsp;&nbsp; &nbsp;&nbsp;📖  </h3>
    <ul>
     <li>
-         <h2><a href=" ">Dissertation sur question méthode</a></h2>
+         <h2><a href="https://www.calameo.com/read/005158893318cf29d5e2c"> 😼: J'ai oublié mon manuel <br> &nbsp;&nbsp; &nbsp;&nbsp;😁: Tu peux utiliser ce lien 🥰</a></h2>
      </li>
-    <li>
-         <h2><a href=" ">Explication de texte</a></h2>
-     </li>
-    </ul>
+       </ul>
+
  </body>
 </html>
