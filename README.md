@@ -77,6 +77,17 @@
     </ul>
     <br>
  <hr>
+     <h3 id="para2" style="border: 1px solid black; padding: 10px;">🗃️&nbsp;&nbsp; &nbsp;&nbsp; Méthodologie&nbsp;&nbsp; &nbsp;&nbsp; 🗂️<br> ✏️ vers le BAC 😭</h3>
+   <ul>
+    <li>
+         <h2><a href=" ">Dissertation sur question méthode</a></h2>
+     </li>
+    <li>
+         <h2><a href=" ">Explication de texte</a></h2>
+     </li>
+    </ul>
+    <br>
+ <hr>
  <h3 id="para2" style="border: 1px solid black; padding: 10px;">📕&nbsp;&nbsp; &nbsp;&nbsp; Manuel de philosophie &nbsp;&nbsp; &nbsp;&nbsp;📖  </h3>
    <ul>
     <li>
