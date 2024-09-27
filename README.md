@@ -14,6 +14,8 @@
  <body>
  <h1 id="para1">Filosofia</h1>
  <p></p>
+ <hr/>
+ <p id="para2"> <a href="https://drive.google.com/drive/folders/116uAgM6t9yIA-ZKwo-aw3z7Ij9RNvgis?usp=drive_link">Chimie quantique (cliquez ici!)</a></p
  <h3 id="para2" style="border: 1px solid black; padding: 10px;"> 📝&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  COURS &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 📝 </h3>
    <ul>
      <li>
