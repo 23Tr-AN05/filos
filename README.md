@@ -31,7 +31,7 @@
          <h2><a href=" ">En quoi la religion tisse-t-elle le lien social?</a></h2>
      </li>
      <li>
-         <h2><a href="https://23tr-an05.github.io/li ">Comment peut-on établir la liberté?</a></h2>
+         <h2><a href="https://23tr-an05.github.io/ ">Comment peut-on établir la liberté?</a></h2>
      </li>
      <li>
          <h2><a href=" ">Qu'est-ce qui définit un sujet?</a></h2>
