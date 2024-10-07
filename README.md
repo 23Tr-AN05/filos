@@ -15,7 +15,8 @@
  <h1 id="para1">Filosofia</h1>
  <p></p>
  <hr/>
- 
+  <marquee style="border:RED 3px SOLID"><p id="para3">À la Une: Vous avez accès au cours de la liberté </p></marquee>
+  </hr>
  <h3 id="para2" style="border: 1px solid black; padding: 10px;"> 📝&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  COURS &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 📝 </h3>
    <ul>
      <li>
@@ -31,7 +32,7 @@
          <h2><a href=" ">En quoi la religion tisse-t-elle le lien social?</a></h2>
      </li>
      <li>
-         <h2><a href="https://23tr-an05.github.io/ ">Comment peut-on établir la liberté?</a></h2>
+         <h2><a href="https://23tr-an05.github.io/li/ ">Comment peut-on établir la liberté?</a></h2>
      </li>
      <li>
          <h2><a href=" ">Qu'est-ce qui définit un sujet?</a></h2>
