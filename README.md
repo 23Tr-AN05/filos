@@ -14,9 +14,9 @@
  <body>
  <h1 id="para1">Filosofia</h1>
  <p></p>
- <hr/>
+ <hr>
   <marquee style="border:RED 3px SOLID"><p id="para3">À la Une: Vous avez accès au cours de la liberté </p></marquee>
-  </hr>
+  <hr>
  <h3 id="para2" style="border: 1px solid black; padding: 10px;"> 📝&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  COURS &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 📝 </h3>
    <ul>
      <li>
