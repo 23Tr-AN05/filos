@@ -16,7 +16,8 @@
  <p></p>
  <hr>
   <marquee style="border:RED 3px SOLID"><p id="para3">À la Une: Vous avez accès au cours de la liberté </p></marquee>
-   <marquee style="border:RED 3px SOLID"><p id="para3">À la Une: Vous avez accès à l'analyse d' <i> IDÉE D’UNE HISTOIRE UNIVERSELLE AU POINT DE VUE COSMOPOLITIQUE <i> de KANT</p></marquee>
+   <marquee style="border:RED 3px SOLID"><p id="para3">À la Une: Vous avez accès à l'analyse d' <i> IDÉE D’UNE HISTOIRE UNIVERSELLE AU POINT DE VUE COSMOPOLITIQUE </i> de KANT</p> </marquee>
+  
   <hr>
  <h3 id="para2" style="border: 1px solid black; padding: 10px;"> 📝&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;  COURS &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; 📝 </h3>
    <ul>
@@ -91,6 +92,14 @@
      </li>
     </ul>
     <br>
+ <hr>
+<h3 id="para2" style="border: 1px solid black; padding: 10px;">🦉&nbsp;&nbsp; &nbsp;&nbsp; Culture G des jeunes filozofs&nbsp;&nbsp; &nbsp;&nbsp;😎  </h3>
+ <ul>
+    <li>
+         <h2><a href=""> 🐓: une liste des philosophes vus en classe 🧨</a></h2>
+     </li>
+       </ul>
+
  <hr>
  <h3 id="para2" style="border: 1px solid black; padding: 10px;">📕&nbsp;&nbsp; &nbsp;&nbsp; Manuel de philosophie &nbsp;&nbsp; &nbsp;&nbsp;📖  </h3>
    <ul>
