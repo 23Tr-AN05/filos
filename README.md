@@ -67,7 +67,7 @@
          <h2><a href=" ">Qui est-il Emmanuel KANT? <br> (🙄Je connais pas, C'est qui lui !!!😠)</a></h2>
      </li>
      <li>
-         <h2><a href=" "><i><u> Idée d'une histoire universelle au point de vue <font style="color:#FF0000;">cosmopolitique</font>, 1784</u></i></a></h2>
+         <h2><a href="https://23tr-an05.github.io/Kant/"><i><u> Idée d'une histoire universelle au point de vue <font style="color:#FF0000;">cosmopolitique</font>, 1784</u></i></a></h2>
      </li>
     </ul>
     <br>
