@@ -10,6 +10,9 @@
         text-align:center;
         color:#B3007B;
     }
+    #para3{
+        font-size:30;
+     }
  </style></head>
  <body>
  <h1 id="para1">Filosofia</h1>
@@ -25,7 +28,7 @@
      </li>
      <li>
          <h2><a href="https://23tr-an05.github.io/V-rit-/">Comment peut-on établir la vérité?</a></h2>
-         <ul><li><a href=" " >Cours écrit</a></li></ul>
+         <ul><li><a href=" " ><p id="para3">Cours écrit</p></a></li></ul>
      </li>
      <li>
          <h2><a href=" ">Quelle est la différence entre la science et la croyance?</a></h2>
