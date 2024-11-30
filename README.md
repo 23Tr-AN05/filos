@@ -12,7 +12,7 @@
     }
     #para3{
         font-size:40;
-     }
+    }
  </style></head>
  <body>
  <h1 id="para1">Filosofia</h1>
