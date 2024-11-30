@@ -11,7 +11,7 @@
         color:#B3007B;
     }
     #para3{
-        font-size:30;
+        font-size:40;
      }
  </style></head>
  <body>
