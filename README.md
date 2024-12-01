@@ -78,9 +78,10 @@
     <br>
  <hr>
      <h3 id="para2" style="border: 1px solid black; padding: 10px;">🗃️&nbsp;&nbsp; &nbsp;&nbsp; Méthodologie&nbsp;&nbsp; &nbsp;&nbsp; 🗂️<br> ✏️ vers le BAC 😭</h3>
+    <ul>
     <li>
          <h2><a href=" ">Dissertation sur question méthode</a></h2>
-         <ol><li><a href=" ">Dissertation : La vérité</a></li></ol>
+         <ul><li><a href=" ">Dissertation : La vérité</a></li></ul>
      </li>
     <li>
          <h2><a href=" ">Explication de texte</a></h2>
