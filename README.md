@@ -1,7 +1,7 @@
 <meta charset="utf-8" />
 <html>
  <head><style>
- <link href="s.js" rel="stylesheet" type="text/css" />
+  <script src="s.js" data-import=""></script>
     #para1{
         text-align:center;
         color:red
