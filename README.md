@@ -87,22 +87,24 @@
     <br>
  <hr>
      <h3 id="para2" style="border: 1px solid black; padding: 10px;">🗃️&nbsp;&nbsp; &nbsp;&nbsp; Méthodologie&nbsp;&nbsp; &nbsp;&nbsp; 🗂️<br> ✏️ vers le BAC 😭</h3>
- <ol type="A" class="collapsible">
-    <li>Dissertation
-        <ol class="open">
-            <li>
-                <a
-                     href="pages/stl_premiere_spe/1/Trigo - 1 - Mesurer des angles/Trigo - 1 - Mesurer des angles.html">Mesurer
+ <div class="row" style="--columns:2;">
+     <div class="col" style="margin:2em;">
+        <ol type="A" class="collapsible">
+            <li>Dissértation
+                   <ol class="open">
+                        <li>
+                            <a
+                                href="pages/stl_premiere_spe/1/Trigo - 1 - Mesurer des angles/Trigo - 1 - Mesurer des angles.html">Mesurer
                                 des angles (cours-TD)</a>
+                        </li>
+                        <li>
+                            <a href="pages/fondamentaux/Fractions/Fractions.html">Fractions (fondamentaux)</a>
+                        </li>
+                    </ol>
             </li>
-            <li>
-                 <a href="pages/fondamentaux/Fractions/Fractions.html">Fractions (fondamentaux)</a>
-                </li>
         </ol>
-    </li>
- </ol>
-
-
+     </div>
+ </div>
    <ul>
     <li>
          <h2><a href=" ">Dissertation sur question méthode</a></h2>
