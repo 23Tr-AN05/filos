@@ -16,7 +16,7 @@
     }
  </style></head>
  <body  onload="body()">
- <h1 id="para1">Filosofia</h1>
+ <h1>Filosofia</h1>
  <p></p>
  <hr>
      <marquee style="border:RED 3px SOLID"><p id="para3"></p> </marquee>
