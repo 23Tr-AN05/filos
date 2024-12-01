@@ -1,20 +1,11 @@
-<meta charset="utf-8" />
 <html>
- <head><style>
+ <head>
+  <meta charset="utf-8"/>
+ <link href="style.css" rel="stylesheet" type="text/css"/> 
+
   <script src="s.js" data-import=""></script>
-    #para1{
-        text-align:center;
-        color:red
-    }
-    #para2{
-        font-size:40;
-        text-align:center;
-        color:#B3007B;
-    }
-    #para3{
-        font-size:40;
-    }
- </style></head>
+
+ </head>
  <body>
  <h1 id="para1">Filosofia</h1>
  <p></p>
