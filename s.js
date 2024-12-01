@@ -1,3 +1,15 @@
+// site root / import_modules / title
+
+const before_title = "Philosophie - ";
+const icon = "φ";
+const name_script = "s.js";
+
+const root_path = document.head.getElementsByTagName("script")[0].getAttribute("src").replace(name_script, '');
+const import_module = document.head.getElementsByTagName("script")[0].hasAttribute("data-import") ? document.head.getElementsByTagName("script")[0].getAttribute("data-import").split(" ") : [];
+//console.log("root_path : "+root_path);
+//console.log("import_module : " + import_module);
+
+
 
 // Modules
 const modules_head = {
