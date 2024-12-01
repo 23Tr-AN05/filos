@@ -6,7 +6,7 @@
   <script src="s.js" data-import=""></script>
 
  </head>
- <body onload="body()">
+ <body>
  <h1 id="para1">Filosofia</h1>
  <p></p>
  <hr>
@@ -20,7 +20,7 @@
      </li>
      <li>
          <h2><a href="https://23tr-an05.github.io/V-rit-/">Comment peut-on établir la vérité?</a></h2>
-         <ol><li><a href=" " ><p id="para3">Cours écrit</p></a></li></ol>
+         <ul id="para3"><li id="para3"><a href=" " ><p id="para3">Cours écrit</p></a></li></ol>
      </li>
      <li>
          <h2><a href="https://23tr-an05.github.io/cry/">Quelle est la différence entre la science et la croyance?</a></h2>
@@ -78,27 +78,9 @@
     <br>
  <hr>
      <h3 id="para2" style="border: 1px solid black; padding: 10px;">🗃️&nbsp;&nbsp; &nbsp;&nbsp; Méthodologie&nbsp;&nbsp; &nbsp;&nbsp; 🗂️<br> ✏️ vers le BAC 😭</h3>
- <div class="row" style="--columns:2;">
-     <div class="col" style="margin:2em;">
-        <ol type="A" class="collapsible">
-            <li>Dissértation
-                   <ol class="open">
-                        <li>
-                            <a
-                                href="pages/stl_premiere_spe/1/Trigo - 1 - Mesurer des angles/Trigo - 1 - Mesurer des angles.html">Mesurer
-                                des angles (cours-TD)</a>
-                        </li>
-                        <li>
-                            <a href="pages/fondamentaux/Fractions/Fractions.html">Fractions (fondamentaux)</a>
-                        </li>
-                    </ol>
-            </li>
-        </ol>
-     </div>
- </div>
-   <ul>
     <li>
          <h2><a href=" ">Dissertation sur question méthode</a></h2>
+         <ul><li><a href=" ">Dissertation : La vérité</a></li></ul>
      </li>
     <li>
          <h2><a href=" ">Explication de texte</a></h2>
