@@ -15,7 +15,7 @@
         font-size:40;
     }
  </style></head>
- <body  onload="body()">
+ <body>
  <h1 id="para1">Filosofia</h1>
  <p></p>
  <hr>
