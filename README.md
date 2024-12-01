@@ -2,11 +2,11 @@
  <head>
   <meta charset="utf-8"/>
  <link href="style.css" rel="stylesheet" type="text/css"/> 
-
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   <script src="s.js" data-import=""></script>
 
  </head>
- <body>
+ <body onload="body()">
  <h1 id="para1">Filosofia</h1>
  <p></p>
  <hr>

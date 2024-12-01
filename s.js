@@ -10,7 +10,6 @@ const import_module = document.head.getElementsByTagName("script")[0].hasAttribu
 //console.log("import_module : " + import_module);
 
 
-
 // Modules
 const modules_head = {
 "style" :          [{"path":"styles/style.css", "default":true}],
