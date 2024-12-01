@@ -88,28 +88,19 @@
  <hr>
      <h3 id="para2" style="border: 1px solid black; padding: 10px;">🗃️&nbsp;&nbsp; &nbsp;&nbsp; Méthodologie&nbsp;&nbsp; &nbsp;&nbsp; 🗂️<br> ✏️ vers le BAC 😭</h3>
  <ol type="A" class="collapsible">
-                <li>Dissertation
-                    <ol class="open">
-                        <li>
-                            <a
-                                href="pages/stl_premiere_spe/1/Trigo - 1 - Mesurer des angles/Trigo - 1 - Mesurer des angles.html">Mesurer
+    <li>Dissertation
+        <ol class="open">
+            <li>
+                <a
+                     href="pages/stl_premiere_spe/1/Trigo - 1 - Mesurer des angles/Trigo - 1 - Mesurer des angles.html">Mesurer
                                 des angles (cours-TD)</a>
-                        </li>
-                        <li>
-                            <a href="pages/fondamentaux/Fractions/Fractions.html">Fractions (fondamentaux)</a>
-                        </li>
-                        <li>
-                            <a href="pages/stl_premiere_spe/1/Trigo - 2 - sin et cos/Trigo - 2 - sin et cos.html">Sin et
-                                cos (cours-TD)</a>
-                        </li>
-                        <li>
-                            <a
-                                href="pages/stl_premiere_spe/1/Trigo - 3 - Fonctions sinusoïdales/Trigo - 3 - Fonctions sinusoïdales.html">Fonctions
-                                sinusoïdales (cours-TD)</a>
-                        </li>
-                    </ol>
+            </li>
+            <li>
+                 <a href="pages/fondamentaux/Fractions/Fractions.html">Fractions (fondamentaux)</a>
                 </li>
-
+        </ol>
+    </li>
+ </ol>
 
 
    <ul>
