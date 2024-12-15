@@ -6,7 +6,7 @@
   <script src="s.js" data-import=""></script>
 
  </head>
- <body>
+ <body  onload="body()">
  <h1 id="para1">Filosofia</h1>
  <p></p>
  <hr>
@@ -20,7 +20,7 @@
      </li>
      <li>
          <h2><a href="https://23tr-an05.github.io/V-rit-/">Comment peut-on établir la vérité?</a></h2>
-         <ul id="para3"><li id="para3"><a href=" " ><p id="para3">Cours écrit</p></a></li></ol>
+         <ul id="para3"><li id="para3"><a href=" " ><p id="para3">Cours écrit</p></a></li></ul>
      </li>
      <li>
          <h2><a href="https://23tr-an05.github.io/cry/">Quelle est la différence entre la science et la croyance?</a></h2>
@@ -80,7 +80,7 @@
      <h3 id="para2" style="border: 1px solid black; padding: 10px;">🗃️&nbsp;&nbsp; &nbsp;&nbsp; Méthodologie&nbsp;&nbsp; &nbsp;&nbsp; 🗂️<br> ✏️ vers le BAC 😭</h3>
     <ul>
     <li>
-         <h2><a href=" ">Dissertation sur question méthode</a></h2>
+         <h2><a href="https://23tr-an05.github.io/Md/">Dissertation sur question méthode</a></h2>
          <ul><li><a href=" ">Dissertation : La vérité</a></li></ul>
      </li>
     <li>
