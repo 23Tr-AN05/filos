@@ -20,7 +20,7 @@
      </li>
      <li>
          <h2><a href="https://23tr-an05.github.io/V-rit-/">Comment peut-on établir la vérité?</a></h2>
-         <ul id="para3"><li id="para3"><a href=" " ><p id="para3">Cours écrit</p></a></li></ul>
+         <!--<ul id="para3"><li id="para3"><a href=" " ><p id="para3">Cours écrit</p></a></li></ul>-->
      </li>
      <li>
          <h2><a href="https://23tr-an05.github.io/cry/">Quelle est la différence entre la science et la croyance?</a></h2>
@@ -81,20 +81,21 @@
     <ul>
     <li>
          <h2><a href="https://23tr-an05.github.io/Md/">Dissertation sur question méthode</a></h2>
-         <ul><li><a href=" ">Dissertation : La vérité</a></li></ul>
+         <ul><li><a href="https://23tr-an05.github.io/dis/">Dissertation : La vérité</a></li></ul>
      </li>
     <li>
-         <h2><a href=" ">Explication de texte</a></h2>
+         <h2><a href="https://23tr-an05.github.io/C1/">Explication de texte</a></h2>
+         <ul><li><a href="https://23tr-an05.github.io/C2/">Dissertation : La vérité</a></li></ul>
      </li>
     </ul>
     <br>
  <hr>
-<h3 id="para2" style="border: 1px solid black; padding: 10px;">🦉&nbsp;&nbsp; &nbsp;&nbsp; Culture G des jeunes filozofs&nbsp;&nbsp; &nbsp;&nbsp;😎  </h3>
+<!--<h3 id="para2" style="border: 1px solid black; padding: 10px;">🦉&nbsp;&nbsp; &nbsp;&nbsp; Culture G des jeunes filozofs&nbsp;&nbsp; &nbsp;&nbsp;😎  </h3>
  <ul>
     <li>
          <h2><a href=""> 🐓: une liste des philosophes vus en classe 🧨</a></h2>
      </li>
-       </ul>
+       </ul>-->
 
  <hr>
  <h3 id="para2" style="border: 1px solid black; padding: 10px;">📕&nbsp;&nbsp; &nbsp;&nbsp; Manuel de philosophie &nbsp;&nbsp; &nbsp;&nbsp;📖  </h3>
