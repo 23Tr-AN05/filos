@@ -26,25 +26,25 @@
          <h2><a href="https://23tr-an05.github.io/cry/">Quelle est la différence entre la science et la croyance?</a></h2>
      </li>
      <li>
-         <h2><a href=" ">En quoi la religion tisse-t-elle le lien social?</a></h2>
+         <h2><a href="pdf/En_quoi_la_religion_tisse-t-elle_le_lien_social.pdf "  dowload="" target="_blank">En quoi la religion tisse-t-elle le lien social?</a></h2>
      </li>
      <li>
          <h2><a href="https://23tr-an05.github.io/li/ ">Comment peut-on établir la liberté?</a></h2>
      </li>
      <li>
-         <h2><a href=" ">Qu'est-ce qui définit un sujet?</a></h2>
+         <h2><a href="pdf/Qu_est-ce_qui_définit_un_sujet.pdf "  dowload="" target="_blank">Qu'est-ce qui définit un sujet?</a></h2>
      </li>
     <li>
-         <h2><a href=" ">Que dit l'art du réel?</a></h2>
+         <h2><a href="pdf/Que_dit_l_art_du_reel.pdf " dowload="" target="_blank">Que dit l'art du réel?</a></h2>
      </li>
     <li>
-         <h2><a href=" ">La technique est-elle une maîtrise de l'Homme sur la nature?</a></h2>
+         <h2><a href="pdf/La_technique_est-elle_une_maitrise_de_l_Homme_sur_la_nature.pdf"  dowload="" target="_blank">La technique est-elle une maîtrise de l'Homme sur la nature?</a></h2>
      </li>
     <li>
-         <h2><a href=" ">Le travaille est-il source de l'aliénation ou de liberté? </a></h2>
+         <h2><a href="pdf/Le_travail_est_il_source_d_aliénation_ou_de_liberté.pdf"  dowload="" target="_blank">Le travaille est-il source de l'aliénation ou de liberté? </a></h2>
      </li>
     <li>
-         <h2><a href=" ">Comment le bonheur peut-il être atteint?</a></h2>
+         <h2><a href="pdf/Comment_le_bonheur_peut-il_etre_atteint.pdf"  dowload="" target="_blank">Comment le bonheur peut-il être atteint?</a></h2>
      </li>
     <li>
          <h2><a href=" ">Le temps</a></h2>

@@ -230,7 +230,7 @@ header.innerHTML += `
     <div class="collapse">
         <div class="group">                    
             <div class="item">
-	        <div class="text" style="font-size:larger;font-weight:bold;">Math<span style="color:limegreen;">έ</span>matiques</div>
+	        <div class="text" style="font-size:larger;font-weight:bold;">Math<span style="color:limegreen;">φ</span>matiques</div>
 	        <div class="text">Cours</div>
             </div>
         </div>
